@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kewin Andriws Caviedes Lozano</h1>
+<h1 align="center">Hi 👋, I'm Kewin Caviedes</h1>
 <h3 align="center">I have great leadership skills, I supervise and guide in any type of project, always giving the best of my knowledge and skills.</h3>
 
 - I’m currently working on **Gametor ESPORT**
