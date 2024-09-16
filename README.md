@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada y creativa del README para tu perfil de GitHub, basada en el nuevo CV que me compartiste:
-
----
-
 <h1 align="center">Hello, World! 👋 I'm Kewin Caviedes</h1>
 <h3 align="center">A Software Engineer focused on building scalable, high-performance web and mobile applications with a passion for clean code and innovative solutions. 🚀</h3>
 
@@ -81,7 +77,3 @@ Let’s connect and create something extraordinary together!
 
 ### ⚡ Fun Fact:
 When I’m not coding, you can find me exploring the latest in **AI**, **machine learning**, or experimenting with new **coffee** brewing techniques. ☕️ Let's chat about tech or the perfect cup of espresso!
-
----
-
-Este README ahora refleja más detalladamente tu experiencia, habilidades y tecnologías que manejas, con un toque creativo y profesional. ¡Espero que te guste esta versión aún más!
