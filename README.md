@@ -1,79 +1,234 @@
-<h1 align="center">Hello, World! 👋 I'm Kewin Caviedes</h1>
-<h3 align="center">A Software Engineer focused on building scalable, high-performance web and mobile applications with a passion for clean code and innovative solutions. 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200" height="200"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:06B6D4&text=Kewin%20Caviedes&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-### 👨‍💻 About Me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems;Designing+clean+and+reliable+APIs;Working+with+Laravel%2C+NestJS%2C+Docker+and+AWS;Turning+legacy+systems+into+maintainable+software" alt="Typing SVG" /></a>
 
-- 🎯 I'm a **Full Stack Developer** with over **3 years of experience** in creating digital solutions using **microservices architectures** and **REST APIs**.
-- 🏗️ I have a solid background in **web technologies** like **PHP**, **Node.js**, **React**, and **TypeScript**.
-- 📱 Currently diving into **mobile development** with **React Native** and **Flutter**, always eager to learn and innovate.
-- 🔧 I specialize in **API integrations**, enhancing productivity and streamlining processes by eliminating repetitive tasks.
-- 💡 My focus on **clean code** and **agile methodologies** ensures the delivery of maintainable, scalable solutions.
+<br />
+<br />
 
-### 🚀 What I’m Up To:
+<a href="https://www.linkedin.com/in/kewin-caviedes/"><img src="https://img.shields.io/badge/LinkedIn-Kewin%20Caviedes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  <a href="https://github.com/Kandriws"><img src="https://img.shields.io/badge/GitHub-Kandriws-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>  <img src="https://komarev.com/ghpvc/?username=Kandriws&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 
-- 🔭 Currently, I’m working at **Damos Soluciones**, where I’ve played a key role in leading projects and enhancing system performance through **microservices** and **API-based integrations**.
-- 🌱 I'm continuously learning **Docker**, **AWS**, and **DevOps** practices to elevate my deployment and scaling game.
-- 💬 Feel free to ask me about: **Laravel**, **Node.js**, **JavaScript**, **API Development**, **React**, **PHP**, and more!
+</div>
 
-### 🛠️ My Tech Toolbox:
-Here’s a glimpse into the tools and technologies I work with daily:
+---
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About me
 
-### 💼 Professional Experience Highlights:
+```ts
+const kewin = {
+  role: "Backend-Focused Full Stack Developer",
+  basedIn: "Malta 🇲🇹",
+  experience: "4+ years",
+  background: "Systems Engineer",
+  mainStack: ["PHP", "Laravel", "Node.js", "NestJS", "TypeScript", "React"],
+  databases: ["PostgreSQL", "MySQL", "MS SQL Server", "MongoDB", "Redis"],
+  cloudAndTools: ["Docker", "AWS", "GitLab CI", "Jenkins", "Postman"],
+  currentFocus: [
+    "High-traffic backend systems",
+    "Third-party integrations",
+    "RESTful API design",
+    "Performance optimization",
+    "Clean architecture"
+  ],
+  learning: ["Flutter", "React Native", "Advanced DevOps practices"]
+};
+```
 
-- **Microservices Guru**: Led the design and maintenance of applications under microservices architecture, ensuring robust performance and efficient service interactions.
-- **Project Leadership**: Guided multiple projects to successful delivery, optimizing processes and increasing productivity by **30%** through API-based system integrations.
-- **DevOps Collaboration**: Worked closely with DevOps teams, using **Jenkins**, **GitLab CI**, and **Docker** to ensure smooth, automated deployments.
+I'm a **Full Stack Developer with 4+ years of experience**, currently working as a **Backend Developer in Malta** within the online gaming industry.
 
-### 🌐 Connect with Me:
-Let’s connect and create something extraordinary together!
-<p align="left">
-  <a href="https://twitter.com/kewincaviedes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/kewin-caviedes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Kandriws" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+I specialize in building and maintaining **scalable backend systems**, designing **RESTful APIs**, integrating third-party platforms, and improving performance in production environments.
 
-### ⚡ Fun Fact:
-When I’m not coding, you can find me exploring the latest in **AI**, **machine learning**, or experimenting with new **coffee** brewing techniques. ☕️ Let's chat about tech or the perfect cup of espresso!
+I care about writing code that is not only functional, but also **clean, maintainable, documented, and ready to scale**.
+
+---
+
+## 🚀 What I bring to the table
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Backend Engineering</h3>
+      <p>
+        I build reliable APIs, backend services, integrations, and business logic for real-world production systems.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🏗️ System Architecture</h3>
+      <p>
+        Experience working with microservices, modular systems, legacy refactoring, and scalable architecture migrations.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Performance Optimization</h3>
+      <p>
+        I improve response times through caching, database query optimization, and backend refactoring.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤝 Product Delivery</h3>
+      <p>
+        Comfortable working in agile teams, delivering features, writing documentation, and collaborating across departments.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Current focus
+
+<div align="center">
+
+| Area             | What I'm working on                                        |
+| ---------------- | ---------------------------------------------------------- |
+| 🎮 Online Gaming | Backend systems for high-traffic gaming platforms          |
+| 🔌 Integrations  | Third-party game providers, APIs, CRM and CMS systems      |
+| ⚙️ Architecture  | Legacy system refactoring and scalable backend design      |
+| 🚀 Performance   | Caching, query optimization and response time improvements |
+| ☁️ DevOps        | Docker, AWS, CI/CD and deployment workflows                |
+| 📱 Mobile        | Expanding with Flutter and React Native                    |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,ts,js" alt="Backend technologies" />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter" alt="Frontend and mobile technologies" />
+
+### Databases, Messaging & Cache
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq" alt="Databases and messaging technologies" />
+
+### Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,jenkins,postman,linux" alt="Cloud, DevOps and tools" />
+
+</div>
+
+---
+
+## 💼 Professional impact
+
+<div align="center">
+
+| Impact                   | Result                                                                                                |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| ⚡ Backend optimization   | Achieved around **20% faster response times** by implementing caching and optimizing database queries |
+| 🔗 API integrations      | Built integrations between CRM and CMS platforms, helping improve company productivity by **30%**     |
+| 🧩 Architecture          | Worked on microservices-based applications and migration from monolithic systems                      |
+| 🛠️ DevOps collaboration | Worked with Docker, Jenkins and GitLab CI to support reliable deployments                             |
+| 📚 Documentation         | Created and maintained technical documentation for architecture decisions and best practices          |
+
+</div>
+
+---
+
+## ⭐ Featured project
+
+<div align="center">
+
+<a href="https://github.com/Kandriws/nestjs-hexagonal-auth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kandriws&repo=nestjs-hexagonal-auth&theme=tokyonight&hide_border=true&border_radius=16" alt="nestjs-hexagonal-auth repository" /></a>
+
+</div>
+
+### `nestjs-hexagonal-auth`
+
+Production-ready authentication API built with **NestJS**, **TypeScript**, **Prisma**, **PostgreSQL**, and **Docker**.
+
+**Main features:**
+
+* Hexagonal architecture
+* JWT authentication with refresh tokens
+* Two-Factor Authentication using TOTP and Email OTP
+* Google OAuth2
+* Rate limiting
+* Swagger documentation
+* Custom technical documentation
+* Architecture decisions and best practices
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kandriws&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="Kewin's GitHub stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandriws&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Kandriws&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak stats" />
+
+</div>
+
+---
+
+## 😄 Developer mood
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Developer working GIF" />
+
+<br />
+
+<sub>Me debugging a production issue that was “working yesterday”.</sub>
+
+</div>
+
+---
+
+## 🧩 A bit more about me
+
+```yaml
+name: Kewin Caviedes
+based_in: Malta
+background: Systems Engineer
+main_focus:
+  - Backend Development
+  - API Architecture
+  - System Integrations
+  - Microservices
+  - Performance Optimization
+favorite_principles:
+  - Clean Code
+  - Clean Architecture
+  - SOLID
+  - Pragmatic Engineering
+  - Continuous Improvement
+```
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+I'm open to conversations about **backend architecture**, **Laravel**, **NestJS**, **API design**, **system integrations**, **clean code**, and **scalable software development**.
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/kewin-caviedes/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>  <a href="https://github.com/Kandriws"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1E40AF,100:0F172A" />
+
+</div>
