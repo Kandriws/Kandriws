@@ -19,7 +19,7 @@
 const kewin = {
   role: "Backend-Focused Full Stack Developer",
   basedIn: "Malta 🇲🇹",
-  experience: "4+ years",
+  experience: "5+ years",
   background: "Systems Engineer",
   mainStack: ["PHP", "Laravel", "Node.js", "NestJS", "TypeScript", "React"],
   databases: ["PostgreSQL", "MySQL", "MS SQL Server", "MongoDB", "Redis"],
